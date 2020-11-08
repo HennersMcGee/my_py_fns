@@ -6,4 +6,4 @@
     Description: Simple functions to test
 '''
 
-import simple_functions
+import my_py_fns.simple_functions
