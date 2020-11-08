@@ -13,14 +13,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="example-pkg-HennersMcGee",
+    name="my_py_fns-HennersMcGee",
     version="0.0.1",
     author="Henry Letton",
     author_email="henry_letton@hotmail.com",
     description="A package to store all personal functions in one place, for ease of use in many projects.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/HennersMcGee/my_py_fns",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
