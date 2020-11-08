@@ -3,7 +3,7 @@
     Author: Henry Letton
     Date created: 2020-10-30
     Python Version: 3.8.3
-    Desciption: Simple functions to test
+    Description: Simple functions to test
 '''
 
 # add 1

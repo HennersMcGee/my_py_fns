@@ -3,7 +3,7 @@
     Author: Henry Letton
     Date created: 2020-11-08
     Python Version: 3.8.3
-    Desciption: Build script for setuptools.
+    Description: Build script for setuptools.
         
 '''
 
